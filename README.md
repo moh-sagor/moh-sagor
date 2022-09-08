@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moh-sagor&" alt="moh-sagor" /></p>
 
-<p><img align="center" src = "https://activity-graph.herokuapp.com/graph?username=moh-sagor" /> </p>
+<p><img src = "https://activity-graph.herokuapp.com/graph?username=moh-sagor" /> </p>
 
 <p><img align="center" src = "https://metrics.lecoq.io/moh-sagor" /> </p>
 
