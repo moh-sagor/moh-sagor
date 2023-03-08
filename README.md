@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer</h3>
 <img src="https://i.ibb.co/nnssCf1/Yellow-Modern-Digital-Marketing-Linked-In-Banner.gif">
 
-<p align="justify"> Specialized at Full Stack Web Developer. Skilled in React.js, Django, JavaScript, MySQL, OOP, Python Programming, Problem Solving, Git, GitHub, Graphics Design. I also skilled in Bootstarp, ReactStrap, TailwindCSS, MetarialUI, Restful API, Django Restful API, Redux, Hook, ES6 etc. I use windows and linux both as my primary operating system. </p>
+<p align="justify"> Specialized at Full Stack Web Development. Skilled in Laravel, PHP, React.js, Django, JavaScript, MySQL, OOP, Python Programming, Problem Solving, Git, GitHub, Graphics Design. I also skilled in Bootstarp, ReactStrap, TailwindCSS, MetarialUI, Restful API, ES6 etc. I use windows and linux both as my primary operating system. </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=moh-sagor&label=Profile%20views&color=0e75b6&style=flat" alt="moh-sagor" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ReactNative, Vue.js, Next.js**
 
-- 💬 Ask me about **React, Django, Python, OOP, Graphics Design**
+- 💬 Ask me about **Laravel, PHP, Python, OOP, Graphics Design, HTML5, CSS3, Javascript, jQuery**
 
 - 📫 How to reach me **sagorhassain4@gmail.com**
 
