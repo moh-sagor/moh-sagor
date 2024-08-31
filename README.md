@@ -20,7 +20,7 @@
 <p align="right">
 <a href="https://twitter.com/s0707sagor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s0707sagor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/moh-sagor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moh-sagor" height="30" width="40" /></a>
-<a href=https://www.facebook.com/findmesagor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.sagor.rzs" height="30" width="40" /></a>
+<a href=https://www.facebook.com/findmesagor/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.sagor.rzs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
